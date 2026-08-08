@@ -1,5 +1,5 @@
 #pragma once
-
+#include<unordered_map>
 #include "byte_stream.hh"
 
 class Reassembler
@@ -43,4 +43,11 @@ public:
 
 private:
   ByteStream output_;
+  std::unordered_map<uint64_t, char> mp_{};
+  uint64_t next_idx_{};
+  uint64_t last_idx_{};
+  bool has_last_{};
+
+
+
 };
