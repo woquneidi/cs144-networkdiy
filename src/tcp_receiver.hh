@@ -27,4 +27,6 @@ public:
 
 private:
   Reassembler reassembler_;
+  std::optional<Wrap32> isn_{};
+
 };
