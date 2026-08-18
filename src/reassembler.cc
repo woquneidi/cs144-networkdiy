@@ -43,7 +43,8 @@ void Reassembler::insert( uint64_t first_index, string data, bool is_last_substr
   uint64_t last_unacceptable = next_idx_ + writer.available_capacity();
   for (uint64_t i = 0; i < data.length(); i++) {
     uint64_t idx = first_index + i;
-    if (idx < next_idx_ || idx >= last_unacceptable) continue;
+    if (idx < next_idx_) continue;
+    if (idx >= last_unacceptable) break;
     uint64_t position = idx % capacity_;
     if (is_ready_[position]) continue;
     pending_[position] = data[i];
@@ -70,7 +71,7 @@ void Reassembler::insert( uint64_t first_index, string data, bool is_last_substr
 
  
 }
-
+// idx可能超过u64范围
 
 
 
