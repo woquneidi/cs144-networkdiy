@@ -1,0 +1,41 @@
+PING www.canterbury.ac.nz (146.75.47.10) 1000(1028) bytes of data.
+[1787306640.793998] 1008 bytes from 146.75.47.10: icmp_seq=1 ttl=46 time=237 ms
+[1787306641.195367] 1008 bytes from 146.75.47.10: icmp_seq=3 ttl=46 time=235 ms
+[1787306641.398599] 1008 bytes from 146.75.47.10: icmp_seq=4 ttl=46 time=236 ms
+[1787306641.595052] 1008 bytes from 146.75.47.10: icmp_seq=5 ttl=46 time=234 ms
+[1787306641.867114] 1008 bytes from 146.75.47.10: icmp_seq=6 ttl=46 time=308 ms
+[1787306641.992942] 1008 bytes from 146.75.47.10: icmp_seq=7 ttl=46 time=235 ms
+[1787306642.186410] 1008 bytes from 146.75.47.10: icmp_seq=8 ttl=46 time=236 ms
+[1787306642.383682] 1008 bytes from 146.75.47.10: icmp_seq=9 ttl=46 time=235 ms
+[1787306642.581237] 1008 bytes from 146.75.47.10: icmp_seq=10 ttl=46 time=235 ms
+[1787306642.783721] 1008 bytes from 146.75.47.10: icmp_seq=11 ttl=46 time=239 ms
+[1787306642.977819] 1008 bytes from 146.75.47.10: icmp_seq=12 ttl=46 time=234 ms
+[1787306643.176268] 1008 bytes from 146.75.47.10: icmp_seq=13 ttl=46 time=235 ms
+[1787306643.373333] 1008 bytes from 146.75.47.10: icmp_seq=14 ttl=46 time=234 ms
+[1787306643.572237] 1008 bytes from 146.75.47.10: icmp_seq=15 ttl=46 time=235 ms
+[1787306643.772278] 1008 bytes from 146.75.47.10: icmp_seq=16 ttl=46 time=237 ms
+[1787306643.970153] 1008 bytes from 146.75.47.10: icmp_seq=17 ttl=46 time=237 ms
+[1787306644.166053] 1008 bytes from 146.75.47.10: icmp_seq=18 ttl=46 time=234 ms
+[1787306644.363997] 1008 bytes from 146.75.47.10: icmp_seq=19 ttl=46 time=234 ms
+[1787306644.562114] 1008 bytes from 146.75.47.10: icmp_seq=20 ttl=46 time=235 ms
+[1787306644.763061] 1008 bytes from 146.75.47.10: icmp_seq=21 ttl=46 time=238 ms
+[1787306644.957581] 1008 bytes from 146.75.47.10: icmp_seq=22 ttl=46 time=235 ms
+[1787306645.157462] 1008 bytes from 146.75.47.10: icmp_seq=23 ttl=46 time=237 ms
+[1787306645.354626] 1008 bytes from 146.75.47.10: icmp_seq=24 ttl=46 time=236 ms
+[1787306645.552407] 1008 bytes from 146.75.47.10: icmp_seq=25 ttl=46 time=236 ms
+[1787306645.750060] 1008 bytes from 146.75.47.10: icmp_seq=26 ttl=46 time=235 ms
+[1787306645.948678] 1008 bytes from 146.75.47.10: icmp_seq=27 ttl=46 time=236 ms
+[1787306646.135054] 1008 bytes from 146.75.47.10: icmp_seq=28 ttl=46 time=225 ms
+[1787306646.325674] 1008 bytes from 146.75.47.10: icmp_seq=29 ttl=46 time=218 ms
+[1787306646.538656] 1008 bytes from 146.75.47.10: icmp_seq=30 ttl=46 time=232 ms
+[1787306646.774720] 1008 bytes from 146.75.47.10: icmp_seq=31 ttl=46 time=269 ms
+[1787306646.962302] 1008 bytes from 146.75.47.10: icmp_seq=32 ttl=46 time=258 ms
+[1787306647.337195] 1008 bytes from 146.75.47.10: icmp_seq=34 ttl=46 time=241 ms
+[1787306647.532931] 1008 bytes from 146.75.47.10: icmp_seq=35 ttl=46 time=234 ms
+[1787306647.731087] 1008 bytes from 146.75.47.10: icmp_seq=36 ttl=46 time=234 ms
+[1787306648.128544] 1008 bytes from 146.75.47.10: icmp_seq=38 ttl=46 time=236 ms
+[1787306648.528886] 1008 bytes from 146.75.47.10: icmp_seq=40 ttl=46 time=236 ms
+
+--- www.canterbury.ac.nz ping statistics ---
+40 packets transmitted, 36 received, 10% packet loss, time 8278ms
+rtt min/avg/max/mdev = 217.743/238.345/308.057/14.049 ms, pipe 2

@@ -1,0 +1,45 @@
+PING 1.1.1.1 (1.1.1.1) 1000(1028) bytes of data.
+[1787306531.129022] 1008 bytes from 1.1.1.1: icmp_seq=1 ttl=45 time=101 ms
+[1787306531.321717] 1008 bytes from 1.1.1.1: icmp_seq=2 ttl=45 time=104 ms
+[1787306531.505324] 1008 bytes from 1.1.1.1: icmp_seq=3 ttl=45 time=99.4 ms
+[1787306531.698423] 1008 bytes from 1.1.1.1: icmp_seq=4 ttl=45 time=103 ms
+[1787306531.883078] 1008 bytes from 1.1.1.1: icmp_seq=5 ttl=45 time=99.4 ms
+[1787306532.072693] 1008 bytes from 1.1.1.1: icmp_seq=6 ttl=45 time=99.4 ms
+[1787306532.264640] 1008 bytes from 1.1.1.1: icmp_seq=7 ttl=45 time=102 ms
+[1787306532.457061] 1008 bytes from 1.1.1.1: icmp_seq=8 ttl=45 time=105 ms
+[1787306532.641193] 1008 bytes from 1.1.1.1: icmp_seq=9 ttl=45 time=99.9 ms
+[1787306532.835692] 1008 bytes from 1.1.1.1: icmp_seq=10 ttl=45 time=105 ms
+[1787306533.019473] 1008 bytes from 1.1.1.1: icmp_seq=11 ttl=45 time=101 ms
+[1787306533.210098] 1008 bytes from 1.1.1.1: icmp_seq=12 ttl=45 time=101 ms
+[1787306533.399036] 1008 bytes from 1.1.1.1: icmp_seq=13 ttl=45 time=101 ms
+[1787306533.588423] 1008 bytes from 1.1.1.1: icmp_seq=14 ttl=45 time=100 ms
+[1787306533.782468] 1008 bytes from 1.1.1.1: icmp_seq=15 ttl=45 time=105 ms
+[1787306533.975314] 1008 bytes from 1.1.1.1: icmp_seq=16 ttl=45 time=106 ms
+[1787306534.167707] 1008 bytes from 1.1.1.1: icmp_seq=17 ttl=45 time=104 ms
+[1787306534.364275] 1008 bytes from 1.1.1.1: icmp_seq=18 ttl=45 time=107 ms
+[1787306534.560408] 1008 bytes from 1.1.1.1: icmp_seq=19 ttl=45 time=111 ms
+[1787306534.749002] 1008 bytes from 1.1.1.1: icmp_seq=20 ttl=45 time=106 ms
+[1787306534.940432] 1008 bytes from 1.1.1.1: icmp_seq=21 ttl=45 time=104 ms
+[1787306535.134448] 1008 bytes from 1.1.1.1: icmp_seq=22 ttl=45 time=105 ms
+[1787306535.329484] 1008 bytes from 1.1.1.1: icmp_seq=23 ttl=45 time=106 ms
+[1787306535.520741] 1008 bytes from 1.1.1.1: icmp_seq=24 ttl=45 time=104 ms
+[1787306535.713827] 1008 bytes from 1.1.1.1: icmp_seq=25 ttl=45 time=104 ms
+[1787306535.909862] 1008 bytes from 1.1.1.1: icmp_seq=26 ttl=45 time=106 ms
+[1787306536.101016] 1008 bytes from 1.1.1.1: icmp_seq=27 ttl=45 time=104 ms
+[1787306536.296013] 1008 bytes from 1.1.1.1: icmp_seq=28 ttl=45 time=105 ms
+[1787306536.489296] 1008 bytes from 1.1.1.1: icmp_seq=29 ttl=45 time=105 ms
+[1787306536.682283] 1008 bytes from 1.1.1.1: icmp_seq=30 ttl=45 time=105 ms
+[1787306536.876338] 1008 bytes from 1.1.1.1: icmp_seq=31 ttl=45 time=105 ms
+[1787306537.069430] 1008 bytes from 1.1.1.1: icmp_seq=32 ttl=45 time=104 ms
+[1787306537.263523] 1008 bytes from 1.1.1.1: icmp_seq=33 ttl=45 time=104 ms
+[1787306537.456977] 1008 bytes from 1.1.1.1: icmp_seq=34 ttl=45 time=104 ms
+[1787306537.650085] 1008 bytes from 1.1.1.1: icmp_seq=35 ttl=45 time=104 ms
+[1787306537.843749] 1008 bytes from 1.1.1.1: icmp_seq=36 ttl=45 time=103 ms
+[1787306538.039089] 1008 bytes from 1.1.1.1: icmp_seq=37 ttl=45 time=105 ms
+[1787306538.233121] 1008 bytes from 1.1.1.1: icmp_seq=38 ttl=45 time=106 ms
+[1787306538.427993] 1008 bytes from 1.1.1.1: icmp_seq=39 ttl=45 time=107 ms
+[1787306538.621392] 1008 bytes from 1.1.1.1: icmp_seq=40 ttl=45 time=106 ms
+
+--- 1.1.1.1 ping statistics ---
+40 packets transmitted, 40 received, 0% packet loss, time 8102ms
+rtt min/avg/max/mdev = 99.384/103.840/110.859/2.410 ms

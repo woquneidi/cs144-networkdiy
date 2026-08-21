@@ -1,0 +1,45 @@
+PING www.a.shifen.com (39.156.70.46) 1000(1028) bytes of data.
+[1787306434.460015] 1008 bytes from 39.156.70.46: icmp_seq=1 ttl=50 time=20.1 ms
+[1787306434.658033] 1008 bytes from 39.156.70.46: icmp_seq=2 ttl=50 time=19.6 ms
+[1787306434.857502] 1008 bytes from 39.156.70.46: icmp_seq=3 ttl=50 time=20.0 ms
+[1787306435.057130] 1008 bytes from 39.156.70.46: icmp_seq=4 ttl=50 time=21.2 ms
+[1787306435.261737] 1008 bytes from 39.156.70.46: icmp_seq=5 ttl=50 time=25.1 ms
+[1787306435.472148] 1008 bytes from 39.156.70.46: icmp_seq=6 ttl=50 time=35.0 ms
+[1787306435.671091] 1008 bytes from 39.156.70.46: icmp_seq=7 ttl=50 time=33.4 ms
+[1787306435.858514] 1008 bytes from 39.156.70.46: icmp_seq=8 ttl=50 time=20.0 ms
+[1787306436.059657] 1008 bytes from 39.156.70.46: icmp_seq=9 ttl=50 time=20.6 ms
+[1787306436.260366] 1008 bytes from 39.156.70.46: icmp_seq=10 ttl=50 time=20.3 ms
+[1787306436.462349] 1008 bytes from 39.156.70.46: icmp_seq=11 ttl=50 time=21.5 ms
+[1787306436.671636] 1008 bytes from 39.156.70.46: icmp_seq=12 ttl=50 time=29.7 ms
+[1787306436.876027] 1008 bytes from 39.156.70.46: icmp_seq=13 ttl=50 time=32.9 ms
+[1787306437.063786] 1008 bytes from 39.156.70.46: icmp_seq=14 ttl=50 time=20.3 ms
+[1787306437.308671] 1008 bytes from 39.156.70.46: icmp_seq=15 ttl=50 time=64.5 ms
+[1787306437.495679] 1008 bytes from 39.156.70.46: icmp_seq=16 ttl=50 time=50.6 ms
+[1787306437.677421] 1008 bytes from 39.156.70.46: icmp_seq=17 ttl=50 time=32.4 ms
+[1787306437.905643] 1008 bytes from 39.156.70.46: icmp_seq=18 ttl=50 time=59.8 ms
+[1787306438.068531] 1008 bytes from 39.156.70.46: icmp_seq=19 ttl=50 time=21.5 ms
+[1787306438.270918] 1008 bytes from 39.156.70.46: icmp_seq=20 ttl=50 time=22.9 ms
+[1787306438.476487] 1008 bytes from 39.156.70.46: icmp_seq=21 ttl=50 time=28.3 ms
+[1787306438.696691] 1008 bytes from 39.156.70.46: icmp_seq=22 ttl=50 time=52.0 ms
+[1787306438.867386] 1008 bytes from 39.156.70.46: icmp_seq=23 ttl=50 time=26.5 ms
+[1787306439.058759] 1008 bytes from 39.156.70.46: icmp_seq=24 ttl=50 time=19.2 ms
+[1787306439.262224] 1008 bytes from 39.156.70.46: icmp_seq=25 ttl=50 time=24.2 ms
+[1787306439.455062] 1008 bytes from 39.156.70.46: icmp_seq=26 ttl=50 time=18.6 ms
+[1787306439.756527] 1008 bytes from 39.156.70.46: icmp_seq=27 ttl=50 time=121 ms
+[1787306442.120294] 1008 bytes from 39.156.70.46: icmp_seq=28 ttl=50 time=121 ms
+[1787306442.306090] 1008 bytes from 39.156.70.46: icmp_seq=29 ttl=50 time=118 ms
+[1787306442.493571] 1008 bytes from 39.156.70.46: icmp_seq=30 ttl=50 time=115 ms
+[1787306442.692328] 1008 bytes from 39.156.70.46: icmp_seq=31 ttl=50 time=125 ms
+[1787306442.930018] 1008 bytes from 39.156.70.46: icmp_seq=32 ttl=50 time=161 ms
+[1787306443.103853] 1008 bytes from 39.156.70.46: icmp_seq=33 ttl=50 time=135 ms
+[1787306443.306792] 1008 bytes from 39.156.70.46: icmp_seq=34 ttl=50 time=137 ms
+[1787306443.391853] 1008 bytes from 39.156.70.46: icmp_seq=35 ttl=50 time=20.7 ms
+[1787306443.593098] 1008 bytes from 39.156.70.46: icmp_seq=36 ttl=50 time=20.8 ms
+[1787306443.799418] 1008 bytes from 39.156.70.46: icmp_seq=37 ttl=50 time=25.8 ms
+[1787306443.995475] 1008 bytes from 39.156.70.46: icmp_seq=38 ttl=50 time=20.6 ms
+[1787306444.196645] 1008 bytes from 39.156.70.46: icmp_seq=39 ttl=50 time=20.7 ms
+[1787306444.398167] 1008 bytes from 39.156.70.46: icmp_seq=40 ttl=50 time=21.1 ms
+
+--- www.a.shifen.com ping statistics ---
+40 packets transmitted, 40 received, 0% packet loss, time 8007ms
+rtt min/avg/max/mdev = 18.638/48.055/161.314/42.357 ms
