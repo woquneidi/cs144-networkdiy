@@ -6,6 +6,18 @@
 
 #include <memory>
 #include <queue>
+#include<unordered_map>
+struct ARPCacheEntry
+{
+  EthernetAddress ethernet_address {};
+  size_t age_ms {};
+};
+struct PendingResolution
+{
+  std::vector<InternetDatagram> datagrams {};
+  size_t age_ms {};
+};
+
 
 // A "network interface" that connects IP (the internet layer, or network layer)
 // with Ethernet (the network access layer, or link layer).
@@ -82,4 +94,8 @@ private:
 
   // Datagrams that have been received
   std::queue<InternetDatagram> datagrams_received_ {};
+
+  std::unordered_map<uint32_t, ARPCacheEntry> arp_cache_ {};
+  std::unordered_map<uint32_t, PendingResolution> pending_{};
+
 };
